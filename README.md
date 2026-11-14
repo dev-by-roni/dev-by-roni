@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Abdur Rahman Roni Banner"/>
+</p>
 <h1 align="center">👋 Assalamu Alaikum, I'm Abdur Rahman Roni</h1>
 
 <h3 align="center">💻 CST Student | Aspiring Web Developer</h3>
