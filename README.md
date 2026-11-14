@@ -64,3 +64,8 @@
 <p align="center">
   ⭐ Feel free to connect with me!
 </p>
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-by-roni/output/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
