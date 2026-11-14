@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="Abdur Rahman Roni Banner"/>
+  <img src="./Git%20Hub%20Coder%20Banner.png" width="100%" alt="Git Hub Coder Banner">
 </p>
 <h1 align="center">👋 Assalamu Alaikum, I'm Abdur Rahman Roni</h1>
 
